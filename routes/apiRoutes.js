@@ -8,7 +8,7 @@ app.get('/notes', (req, res) => {
   
     res.json(db);
   
-  });
+  })
   
   //POST API Request
   app.post('/notes', (req, res) => {
