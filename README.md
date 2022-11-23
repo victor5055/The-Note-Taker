@@ -1,7 +1,7 @@
 # The-Note-Taker
 11 Express.js: Note Taker
 
-[Deployed Application]()
+[Deployed Application](https://fierce-waters-35040.herokuapp.com/)
 [licenseBadge] [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -16,6 +16,11 @@
 # Repository-Description
 ###### [Back to Table of Contents](#Table-of-Contents)
 An application that can be used to write, save, and delete notes using Node and Express, utilizing JSON for data storage. With an already completed front-end, my role was to build the back-end and connect it to the front-end, as stated below:
+Be sure to install npm packages that aren't already included in node.
+
+The initial page will take you to a welcome/get started page, once you click get started you can start creating your notes!
+
+There are input boxes for both a note title and note text and a save button that pops up in the upper right hand corner of the page once text has been entered. Once a new note is saved it will then show up by title on the left hand side of the page. There will be a red trash can delete button next to each note so that you can delete them. If you click on the note title itself it will pull that note title and text up to the center of the screen.
 
 ## User-Story
 ### As the Developer
@@ -48,7 +53,8 @@ Created an Awesome Note Taker so I can write, save and delete notes I've written
 
 ### Screenshots (Building this application)
 ###### [Back to Table of Contents](#Table-of-Contents)
-![](./)
+![](./public/images/Note%20taker.PNG)
+![](./public/images/note%20taker%202.PNG)
 
 ## Repositiory-End-Goal-Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
